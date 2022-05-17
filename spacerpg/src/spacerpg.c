@@ -1,9 +1,10 @@
-/* SPACE RPG
+/*
+ * SPACE RPG
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(void) {
-	printf("Space RPG!\n");
+	printf("SPACE RPG!\n");
 }
